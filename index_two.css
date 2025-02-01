@@ -1,82 +1,33 @@
-html{
-    /*background-color: black;*/
-    color: darkcyan;
-    padding-top: 40px;
-    text-align: center;
-}
-/*
 body{
-    background-color: chocolate;
-    width: 620px;
-    margin: 0;
+    padding-top: 40px;
     background-position: center;
-    margin-bottom: 0px;
     background-repeat: no-repeat;
-} */
-html{
     background-color: wheat;
     color: chocolate;
-    /*color: darkred;*/
     text-align: center;
     font-weight: bolder;
+    margin: 0 auto;
 }
 
 strong{
     color: black;
-    /*color: rgba(0, 255, 255, 0.815);*/
 }
 div{
     font-size: larger;
-    /*background-color: chocolate;*/
-    width: 400px;
-    margin: 0 auto;
-    margin-top: 5px;
-    margin-left: 500px;
-    margin-right: 500px;
-    margin-bottom: 0px;
-    background-position: center;
-    /*padding-left: 500px;*/
-    padding-top: 5px;
-    /*padding-right: 500px;*/
-    padding-bottom: 10px;
-}
-.h1{
-    color: darkslategray;
-    text-decoration: underline;
-}
-.De-prof
-{
-    color: rgba(0, 0, 139, 0.842);
-}
-h1{
-    /*background-color: black;*/
-    width: 620px;
-    margin-bottom: 5px;
-    margin-top: 0px;
-    background-position: center;
-    margin-left: 370px;
-    margin-right: 350px;
-    background-repeat: no-repeat;
-    padding-left: 40px;
-    padding-right: 0px;
-    margin-block: 0;
+   
 }
 .abereoje1{
-    margin-left: 1260px;
-    background-color: darkblue;
-    color: cyan;
+    color: blue;
     text-align: right;
     font-size: small;
     padding-right: 10px;
-    margin-top: -20px;
+     
 }
 .abereoje1:hover{
-    background-color: cyan;
-    color: darkblue;
+    color: cyan;
 }
 a:hover{
     color: darkred;
-    /*color: rgb(235, 243, 243);*/
 }
 .facebook{
     font-size: small;
@@ -86,4 +37,7 @@ a:hover{
     font-size: small;
     margin-left: 50px;
     margin-right: 50px;
+}
+.prep:hover{color: darkred;
+
 }

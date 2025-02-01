@@ -1,34 +1,59 @@
-html{
-    background-color: rgb(247, 103, 1);
-    color: gray;
-    padding-top: 50px;
+body{
+    margin: 0 auto;
+    /*background-color: whitesmoke;*/
+    background-image: url(Water_fall.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* background-color: rgb(247, 103, 1);*/
+    color: wheat;
+    padding-top: 20px;
     text-align: center;
 }
 span{
     color: darkviolet;
 }
 strong{
+    text-decoration: underline;
+    color: cyan;
+}
+thead{
     color: darkslategrey;
 }
 div{
-    background-color: wheat;
+    
+    background: rgba(40, 62, 80, 0.7);
+    padding: 40px;
+    padding-top: 10px;
     width: 400px;
     margin: 0 auto;
-    margin-left: 450px;
-    margin-right: 450px;
-    margin-bottom: 20px;
-    background-position: center;
-    background-repeat: no-repeat;
-    /*padding-left: 500px;*/
-    padding-top: 10px;
-    /*padding-right: 500px;*/
-    padding-bottom: 10px;
+    margin-top: 30px;
+}
+.welcome{
+    text-decoration: underline;
+
 }
 .h1{
     color: darkslategray;
     text-decoration: underline;
 }
-.De-prof
+.Ventures{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 7px;
+    width: 190px;
+    line-height: 25px;
+    cursor: pointer;
+}
+.Ventures:hover
 {
-    color: rgba(0, 0, 139, 0.842);
+    background-color: white;
+    color: black;
+}
+a{
+    color: goldenrod;
+}
+a:hover{
+    color: white;
 }
